@@ -7,7 +7,7 @@
 
 # This is a forked repo of the original [ngx-charts](https://github.com/swimlane/ngx-charts).
 
-Since we did not get any response from the maintainers for our ng-15 upgrade PRs, this repo has een forked and migrated to angular 15. At this point we need more maintainers for this repo for issues/PRs. The package published for angular 15 is `[stoick/ngx-15-charts@21.0.0](https://www.npmjs.com/package/@stoick/ngx-15-charts)`
+Since we did not get any response from the maintainers for our ng-15 upgrade PRs, this repo has een forked and migrated to angular 15. At this point we need more maintainers for this repo for issues/PRs. The package published for angular 15 is [stoick/ngx-15-charts@21.0.0](https://www.npmjs.com/package/@stoick/ngx-15-charts)
 
 Declarative Charting Framework for Angular!
 
