@@ -5,6 +5,10 @@
 [![npm version](https://badge.fury.io/js/%40swimlane%2Fngx-charts.svg)](https://badge.fury.io/js/%40swimlane%2Fngx-charts)
 [![npm downloads](https://img.shields.io/npm/dm/@swimlane/ngx-charts.svg)](https://npmjs.org/@swimlane/ngx-charts)
 
+# This is a forked repo of the original [ngx-charts](https://github.com/swimlane/ngx-charts).
+
+Since we did not get any response from the maintainers for our ng-15 upgrade PRs, this repo has een forked and migrated to angular 15. At this point we need more maintainers for this repo for issues/PRs. The package published for angular 15 is `[stoick/ngx-15-charts@21.0.0](https://www.npmjs.com/package/@stoick/ngx-15-charts)`
+
 Declarative Charting Framework for Angular!
 
 ngx-charts is unique because we don't merely wrap d3, nor any other chart engine for that matter. It is using Angular to render and animate the SVG elements with all of its binding and speed goodness, and uses d3 for the excellent math functions, scales, axis and shape generators. By having Angular do all of the rendering it opens us up to endless possibilities the Angular platform provides such as AoT, SSR, etc.
@@ -45,7 +49,7 @@ For more info, check out the [documentation](https://swimlane.gitbook.io/ngx-cha
 
 ## Install
 
-To use ngx-charts in your project install it via [npm](https://www.npmjs.com/package/@swimlane/ngx-charts):
+To use ngx-charts in your project install it via [npm](https://www.npmjs.com/package/@stoick/ngx-15-charts):
 
 ```
 npm i @swimlane/ngx-charts --save
@@ -53,7 +57,7 @@ npm i @swimlane/ngx-charts --save
 
 ## Custom Charts
 
-To learn how to use the ngx-charts components to build custom charts and find examples, please refer to our [Custom Charts Page](https://github.com/swimlane/ngx-charts/blob/master/docs/custom-charts.md).
+To learn how to use the ngx-charts components to build custom charts and find examples, please refer to our [Custom Charts Page](https://github.com/mukundkatpatal/ngx-charts-15/blob/master/docs/custom-charts.md).
 
 ## Release
 
