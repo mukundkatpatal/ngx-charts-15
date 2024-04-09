@@ -1,6 +1,6 @@
 {
-  "name": "@stoick/ngx-15-charts",
-  "version": "21.0.0",
+  "name": "@stoick/ngx-17-charts",
+  "version": "22.0.0",
   "description": "It is a forked repo of git+https://github.com/swimlane/ngx-charts.git  Declarative Charting Framework for Angular.",
   "repository": {
     "type": "git",
@@ -25,9 +25,6 @@
   ],
   "author": "Swimlane",
   "maintainers": [
-    "Marjan Georgiev",
-    "Jayson Harshbarger",
-    "Haemin Park",
     "Mukund Katpatal"
   ],
   "license": "MIT",
